@@ -21,7 +21,7 @@ img {
 
 .navbar, .introduction {
 	background-color: #1f2937;
-	padding: 5%;
+	padding: 3%;
 }
 
 .navbar {
@@ -42,6 +42,7 @@ img {
 	align-items: center;
 	font-size: 24px;
 	color: #F9FAF8;
+	flex: 1;
 }
 
 .logoimg {
@@ -79,6 +80,7 @@ img {
 	gap: 10%;
 	text-align: center;
 	color:#1f2937;
+	padding-bottom: 5%;
 }
 
 .quote {
