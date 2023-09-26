@@ -7,6 +7,9 @@ A landing page about a travel agency.
 - HTML
 - CSS
 
+## Screen shot
+<img src="./img/haazz'sTravel.jpg">
+
 ## Source
 
 "https://www.flaticon.com/free-icons/plane"
